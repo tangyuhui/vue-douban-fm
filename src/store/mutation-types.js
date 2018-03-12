@@ -1,0 +1,5 @@
+export const SET_CUR_MUSIC = 'SET_CUR_MUSIC'
+export const SET_AUDIO_DOM = 'SET_AUDIO_DOM'
+export const SET_MUSIC_CURTIME = 'SET_MUSIC_CURTIME'
+export const SET_MUSIC_DURATION = 'SET_MUSIC_DURATION'
+export const PLAY_MUSIC = 'PLAY_MUSIC'
